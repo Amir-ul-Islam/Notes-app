@@ -10,6 +10,12 @@ Simple note app. Json server is used as data storage.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+
+
+![App Home](https://i.ibb.co/nMwC5K6/note1.jpg)
+
+![App Home](https://i.ibb.co/VwNXhSZ/note2.jpg)
+
 ## Project Setup
 
 ```sh
