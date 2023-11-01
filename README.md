@@ -14,7 +14,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ![App Home](https://i.ibb.co/nMwC5K6/note1.jpg)
 
-![App Home](https://i.ibb.co/VwNXhSZ/note2.jpg)
+![Add new note](https://i.ibb.co/VwNXhSZ/note2.jpg)
 
 ## Project Setup
 
